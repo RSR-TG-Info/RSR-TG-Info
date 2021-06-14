@@ -4,4 +4,4 @@
   <img src=https://github-readme-stats.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=midnight-purple alt=RSR />
 </p>
 
-<p align="left"> <a href="https://github.com/RSR-TG-Info"><img src="https://github-profile-trophy.vercel.app/?username=RSR-TG-Info&no-bg=true" alt="RSR-TG-Info" /></a> </p>
+<p align="center"> <a href="https://github.com/RSR-TG-Info"><img src="https://github-profile-trophy.vercel.app/?username=RSR-TG-Info&no-bg=true" alt="RSR-TG-Info" /></a> </p>
