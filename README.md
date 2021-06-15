@@ -1,4 +1,4 @@
-<p align="center"><b><h1>Follow me on<h1/></b></p>
+<h1><p align="center"><b>Follow me on</b></p></h1>
 
 <p align="center">
 <a href="https://t.me/mizolibrary" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
