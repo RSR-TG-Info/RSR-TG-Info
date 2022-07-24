@@ -10,8 +10,6 @@
   <img src=https://github-readme-stats.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=midnight-purple alt=RSR />
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RSR-TG-Info&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+![snake gif](https://raw.githubusercontent.com/RSR-TG-Info/RSR-TG-Info/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <a href="https://github.com/RSR-TG-Info"><img src="https://github-profile-trophy.vercel.app/?username=RSR-TG-Info&no-bg=true" alt="RSR-TG-Info" /></a> </p>
