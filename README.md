@@ -10,6 +10,6 @@
   <img src=https://github-readme-stats.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=midnight-purple alt=RSR />
 </p>
 
-![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <p align="center"> <a href="https://github.com/RSR-TG-Info"><img src="https://github-profile-trophy.vercel.app/?username=RSR-TG-Info&no-bg=true" alt="RSR-TG-Info" /></a> </p>
