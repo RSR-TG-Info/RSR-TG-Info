@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://youtube.com/c/RSR8D"><img src="https://img.shields.io/youtube/channel/subscribers/UCIftcn-PLo_CnMTXOhL0G0Q?color=black&logoColor=black&style=plastic" alt="RSR" width="280px"></a>
 
-<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight" alt="RSR-TG-Info" width="300px" /></p>
+<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight" alt="RSR-TG-Info" width="400px" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=midnight-purple" alt=RSR />
