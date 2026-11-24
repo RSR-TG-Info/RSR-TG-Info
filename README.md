@@ -13,12 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/c/RSR8D">
-    <img src="https://img.shields.io/badge/SUBSCRIBE-RSR-bf91f3?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27" alt="YouTube Channel" width="250" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="400" />
 </p>
 
