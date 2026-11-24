@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://youtube.com/c/RSR8D">
-    <img src="https://img.shields.io/badge/SUBSCRIBE-RSR8D-bf91f3?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27" alt="YouTube Channel" width="250" />
+    <img src="https://img.shields.io/badge/SUBSCRIBE-RSR-bf91f3?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27" alt="YouTube Channel" width="250" />
   </a>
 </p>
 
