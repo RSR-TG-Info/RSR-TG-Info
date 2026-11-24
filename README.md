@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=440&lines=Hey+there%2C+Welcome+to+RSR!;Creator+%E2%80%A2+Developer+%E2%80%A2+Innovator;Building+Cool+Stuff+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=460&lines=Hey+there%2C+I%27m+RSR!;Developer+%E2%80%A2+Creator+%E2%80%A2+Innovator;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://youtube.com/c/RSR8D">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCIftcn-PLo_CnMTXOhL0G0Q?label=YOUTUBE+SUBSCRIBERS&style=for-the-badge&logo=youtube&logoColor=white&color=bf91f3&labelColor=1a1b27" alt="YouTube Subscribers" width="265" />
+    <img src="https://img.shields.io/badge/SUBSCRIBE-RSR8D-bf91f3?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27" alt="YouTube Channel" width="250" />
   </a>
 </p>
 
