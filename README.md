@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <a href="https://github.com/RSR-TG-Info">
-    <img src="https://gh-trophy.cdnsoft.net/?username=RSR-TG-Info&title=-Reviews&theme=algolia" alt="RSR-TG-Info" width="95%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RSR-TG-Info&title=-Reviews&theme=algolia" alt="RSR-TG-Info" width="95%" />
   </a> 
 </p>
 
