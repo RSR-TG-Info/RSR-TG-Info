@@ -18,8 +18,6 @@
   </a>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="400" />
 </p>
