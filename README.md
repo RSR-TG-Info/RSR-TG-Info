@@ -1,31 +1,51 @@
 <p align="center">
-  <img src="https://github.com/RSR-TG-Info/RSR-GIF/blob/main/rsr.gif" width="60%">
+  <img src="https://github.com/RSR-TG-Info/RSR-GIF/blob/main/rsr.gif?raw=true" alt="RSR Banner" width="420" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=RSR-TG-Info&label=Profile%20views&color=0e75b6&style=plastic" alt="RSR" width="45%" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=440&lines=Hey+there%2C+Welcome+to+RSR!;Creator+%E2%80%A2+Developer+%E2%80%A2+Innovator;Building+Cool+Stuff+Every+Day" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RSR-TG-Info&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge" alt="Profile Views" width="185" />
 </p>
 
 <p align="center">
   <a href="https://youtube.com/c/RSR8D">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCIftcn-PLo_CnMTXOhL0G0Q?color=black&logoColor=black&style=plastic" alt="RSR" width="60%">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCIftcn-PLo_CnMTXOhL0G0Q?label=YOUTUBE+SUBSCRIBERS&style=for-the-badge&logo=youtube&logoColor=white&color=bf91f3&labelColor=1a1b27" alt="YouTube Subscribers" width="265" />
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight" alt="RSR-TG-Info" width="70%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=midnight-purple" alt="RSR-TG-Info" width="85%" />
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/RSR-TG-Info">
-    <img src="https://github-profile-trophy.vercel.app/?username=RSR-TG-Info&title=-Reviews&theme=algolia" alt="RSR-TG-Info" width="95%" />
-  </a> 
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=tokyonight&border_color=bf91f3&border_radius=12&count_private=true" alt="GitHub Stats" width="520" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://streak-stats.demolab.com?user=RSR-TG-Info&theme=tokyonight&border=70a5fd&border_radius=12&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" width="640" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RSR-TG-Info&theme=tokyo-night&area=true&radius=12" alt="Activity Graph" width="780" />
+</p>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=100&section=footer" width="100%" />
 </p>
