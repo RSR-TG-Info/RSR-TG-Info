@@ -9,15 +9,15 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RSR-TG-Info&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge" alt="Profile Views" width="185" />
+  <img src="https://komarev.com/ghpvc/?username=RSR-TG-Info&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge" alt="Profile Views" width="210" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="360" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=tokyonight&border_color=bf91f3&border_radius=12&count_private=true" alt="GitHub Stats" width="520" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=tokyonight&border_color=bf91f3&border_radius=12&count_private=true" alt="GitHub Stats" width="500" />
 </p>
 
 <p align="center">
