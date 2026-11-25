@@ -2,29 +2,29 @@
   <img src="https://github.com/RSR-TG-Info/RSR-GIF/blob/main/rsr.gif?raw=true" alt="RSR Banner" width="50%" />
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=460&height=35&lines=Hey+there%2C+I%27m+RSR!;Developer+%E2%80%A2+Creator+%E2%80%A2+Innovator;Always+Learning%2C+Always+Building" alt="Typing SVG" width="460" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=RSR-TG-Info&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge" alt="Profile Views" width="30%" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RSR-TG-Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="45%" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=RSR-TG-Info&show_icons=true&theme=tokyonight&border_color=bf91f3&border_radius=12&count_private=true" alt="GitHub Stats" width="60%" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=RSR-TG-Info&theme=tokyonight&border=70a5fd&border_radius=12&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" width="75%" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RSR-TG-Info&theme=tokyo-night&area=true&radius=12" alt="Activity Graph" width="90%" />
-</div>
+</p>
 
 <div align="center">
   <picture>
